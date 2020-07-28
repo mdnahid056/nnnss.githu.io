@@ -1,0 +1,97 @@
+
+/*
+Author: mohammad farhad
+Author URI: 
+*/
+
+/* Portrait tablets and medium desktops */
+@media (min-width: 992px) and (max-width: 1199px){
+
+}
+
+/* Portrait tablets and small desktops */
+@media  (max-width: 1100px){
+	
+.nav-item.nav-link {
+	float: right;
+	text-align: right;
+	margin-right: 13px;
+}
+
+
+}
+
+
+
+/* Landscape phones and portrait tablets */
+@media (min-width: 360px) and (max-width: 760px) {
+	
+}
+
+ 
+ 
+/* Landscape phones and smaller */
+@media (min-width: 360px) and  (max-width: 760px){
+
+}
+
+
+
+
+
+
+/* Landscape phones and smaller */
+@media (min-width: 320px) and (max-width: 480px){
+
+.modina {
+	background: #F3EAC9;
+	margin-top: -62px;
+	padding-left: 1px;
+}
+
+.menu2 {
+	width: 92%;
+	height: auto;
+	border: 2px solid #848484;
+	background: #EAE6CB;
+	margin-top: -33px;
+	margin-left: 15px;
+}
+.enter {
+	width: 100%;
+	height: auto;
+	padding-top: 15px;
+	padding-bottom: 89px;
+	background: #BBD92C;
+}
+.ruzina h1 {
+	font-size: 2.5rem;
+	margin-top: 100px;
+}
+
+.copyright p {
+	width: 83%;
+	height: auto;
+	border: 0px solid;
+	text-align: center;
+	background: #BCD834;
+	padding: 20px;
+	margin-top: -77px;
+	margin-left: 120px;
+	border-radius: 8px;
+}
+.promo-title {
+	font-size: 40px;
+	font-weight: 602;
+	margin-top: 13px;
+}
+
+.second img {
+	width: 70%;
+	height: auto;
+	margin-left: 46px;
+	margin-top: -80px;
+}
+
+
+ 
